@@ -1,4 +1,4 @@
-# Proyect7.- Análisis de Vehículos Usados
+# Análisis de Vehículos Usados
 
 Esta aplicación web interactiva permite a los usuarios explorar visualmente un conjunto de datos de anuncios de vehículos usados en EE.UU. Utilizando **Streamlit**, **Plotly Express** y **pandas**, los usuarios pueden generar:
 
